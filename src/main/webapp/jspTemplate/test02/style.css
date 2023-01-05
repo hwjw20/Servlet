@@ -1,0 +1,26 @@
+@charset "UTF-8";
+header {
+	height:50px;
+}
+nav {
+	height:50px;
+}
+
+section > article {
+	height:32%;
+	margin:5px,5px,5px,5px;
+}
+
+.artistInfo {
+	margin:10px 10px 10px 10px;
+}
+.songInfo {
+	margin:10px 10px 10px 10px;
+}
+
+section > .list {
+	height:60%;
+}
+footer {
+	height:80px;
+}
